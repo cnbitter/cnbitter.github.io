@@ -1,28 +1,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>我的第一个hugo博客 on 我的第一个hugo博客</title>
-    <link>https://cnbitter.github.io/</link>
-    <description>Recent content in 我的第一个hugo博客 on 我的第一个hugo博客</description>
+    <title>叽哥的栖息地 on 叽哥的栖息地</title>
+    <link>https://www.ibinge.cc/</link>
+    <description>Recent content in 叽哥的栖息地 on 叽哥的栖息地</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 24 Dec 2018 12:29:41 +0800</lastBuildDate>
-    <atom:link href="https://cnbitter.github.io/" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.ibinge.cc/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Posts</title>
-      <link>https://cnbitter.github.io/posts/</link>
+      <link>https://www.ibinge.cc/posts/</link>
       <pubDate>Mon, 24 Dec 2018 12:29:41 +0800</pubDate>
       
-      <guid>https://cnbitter.github.io/posts/</guid>
+      <guid>https://www.ibinge.cc/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://cnbitter.github.io/about/</link>
+      <link>https://www.ibinge.cc/about/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://cnbitter.github.io/about/</guid>
+      <guid>https://www.ibinge.cc/about/</guid>
       <description>&lt;p&gt;Hugo is the &lt;strong&gt;world’s fastest framework for building websites&lt;/strong&gt;. It is written in Go.&lt;/p&gt;
 
 &lt;p&gt;It makes use of a variety of open source projects including:&lt;/p&gt;
@@ -41,10 +41,10 @@
     
     <item>
       <title>About Hugo</title>
-      <link>https://cnbitter.github.io/about-hugo/</link>
+      <link>https://www.ibinge.cc/about-hugo/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://cnbitter.github.io/about-hugo/</guid>
+      <guid>https://www.ibinge.cc/about-hugo/</guid>
       <description>&lt;p&gt;Hugo is the &lt;strong&gt;world’s fastest framework for building websites&lt;/strong&gt;. It is written in Go.&lt;/p&gt;
 
 &lt;p&gt;It makes use of a variety of open source projects including:&lt;/p&gt;
@@ -63,10 +63,10 @@
     
     <item>
       <title>Projects</title>
-      <link>https://cnbitter.github.io/projects/</link>
+      <link>https://www.ibinge.cc/projects/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://cnbitter.github.io/projects/</guid>
+      <guid>https://www.ibinge.cc/projects/</guid>
       <description></description>
     </item>
     

@@ -63,4 +63,4 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
-Sitemap: https://cnbitter.github.io/sitemap.xml
+Sitemap: https://www.ibinge.cc/sitemap.xml
